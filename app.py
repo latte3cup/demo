@@ -1,2 +1,2 @@
 import streamlib as st
-st.head("안녕하세요")
+st.header("안녕하세요")
